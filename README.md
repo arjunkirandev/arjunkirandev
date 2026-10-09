@@ -1,6 +1,6 @@
 # Hi there, I'm Arjun Kiran 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arjunkiran.github.io-blue?style=for-the-badge&logo=github)](https://arjunkiran.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arjunkiran.github.io-blue?style=for-the-badge&logo=github)](https://arjunkirandev.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arjun-kiran)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:arjunkiran4375@example.com)
 
@@ -14,7 +14,7 @@ I am a passionate rising software developer focused on building things that help
 
 ## Personal Project Showcase
 
-> 🌟 **Explore my live web portfolio:** **[https://arjunkiran.github.io](https://arjunkiran.github.io)**
+> 🌟 **Explore my live web portfolio:** **[https://arjunkiran.github.io](https://arjunkirandev.github.io)**
 > 
 >  **AZ Heat Relief Network** **[https://heatreliefaz.vercel.app](https://heatreliefaz.vercel.app)**
 > 
@@ -52,6 +52,6 @@ More to come here soon!
 
 ## 🤝 Connect with Me
 
--  **Portfolio:** [arjunkiran.github.io](https://arjunkiran.github.io)
+-  **Portfolio:** [arjunkiran.github.io](https://arjunkirandev.github.io)
 -  **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/arjun-kiran)
 -  **Email:** arjunkiran4375@example.com
